@@ -1,0 +1,21 @@
+From b613ddca649e7a582be329cf3b6bfbeeedfa68c0 Mon Sep 17 00:00:00 2001
+From: bshekleton <shekleton.bryan@gmail.com>
+Date: Tue, 3 Mar 2020 11:03:44 +0000
+Subject: [PATCH 1/3] Initial commit
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..9bbcf7e
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# bookingautomation
++Automate a booking on Ryanair.com to get a declined message 
+-- 
+2.25.1.windows.1
+
